@@ -1,0 +1,5 @@
+Création du fichier main.txt
+Fichier commun 
+Version initiale 
+Ligne_A 
+Ligne_B 
