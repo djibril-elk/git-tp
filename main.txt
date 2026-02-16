@@ -1,5 +1,5 @@
 Création du fichier main.txt
-Fichier commun 
+Fichier partage 
 Version initiale 
 Ligne_A 
 Ligne_B 
