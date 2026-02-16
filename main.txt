@@ -1,6 +1,6 @@
 Création du fichier main.txt
 Fichier partage 
 Version initiale 
-Ligne_JD
-Ligne_B 
+Ligne_JDlkjfd;x
+Ligne_Sharan
 Modification par Djibril
